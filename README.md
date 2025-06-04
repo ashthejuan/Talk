@@ -61,15 +61,12 @@ npm install</code></pre>
 <h2>Usage</h2>
 <ol>
   <li>Register a new account or log in with existing credentials.</li>
-  <li>Start a new chat or join existing chat rooms.</li>
+  <li>Start a new chat with a friend.</li>
   <li>Enjoy real-time messaging with other users.</li>
 </ol>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 </body>
 </html>
